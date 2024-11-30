@@ -1,7 +1,7 @@
 import XCTest
-@testable import CustomFramework
+@testable import MyCustomFramework
 
-final class CustomFrameworkTests: XCTestCase {
+final class MyCustomFrameworkTests: XCTestCase {
     func testExample() throws {
         // XCTest Documentation
         // https://developer.apple.com/documentation/xctest
